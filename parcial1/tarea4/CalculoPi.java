@@ -1,4 +1,4 @@
-// Programa 5
+//Programa 5
 //Calcular Pi usando iteraciones y condiciones de error
 
 import java.util.Scanner;
